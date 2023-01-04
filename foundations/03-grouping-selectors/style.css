@@ -1,0 +1,19 @@
+.mrBlack, .mrYellow {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+
+}
+
+.mrBlack:hover, .mrYellow:hover {
+    border-color: blue;    
+}
+
+.mrBlack{
+    background-color: black;
+    color: white;
+}
+
+.mrYellow {
+    background-color: yellow;
+
+}
