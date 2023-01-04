@@ -1,0 +1,16 @@
+.odd {
+    background-color: #fa324380;
+    font-family: Verdana, Deja vu sans, sans-serif;
+}
+.special {
+    font-size: 24px;
+}
+#bigBlue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#meanGreen {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #21ca0af8;
+}
